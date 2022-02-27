@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">okhttpDemo</string>
+    <string name="TAG_ERROR">找不到这个tag的涩图</string>
+    <string name="title_activity_setu_m">setuM</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="DBPath">/data/data/com.example.okhttpdemo/databases/setu.db</string>
+    <string name="CachePath">/data/data/com.example.okhttpdemo/cache</string>
+    <string name="LovedSuccess">不许好，憋回去！</string>
+    <string name="LovedDone">你已经涩过了！</string>
+    <string name="LovedNone">你还没有Loved!</string>
+    <string name="SaveSuccess">你又好了？</string>
+    <string name="dialogTitle">确定清空Loved吗?\n你将会失去所有♥很久(真的很久)</string>
+    <string name="dialogPositive">我知道我在做什么!ᕕ( ᐛ )ᕗ</string>
+    <string name="dialogClearLoved">已清空所有Loved(ง •̀_•́)ง</string>
+    <string name="dialogNegative">手滑了ε=┏(ﾟロﾟ;)┛</string>
+    <string name="dialogCancel">虚惊一场ε=(っ≧ω≦)っ</string>
+    <string name="longClickToast"><![CDATA[被发现了(´>_●)]]></string>
+</resources>

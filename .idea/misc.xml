@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/drawable-qwerty/qwerty.xml" value="0.4815" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.4815" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/drawable/ic_baseline_dehaze_24.xml" value="0.299" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.4815" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.3125" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3005" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/layout/activity_setu_m.xml" value="0.3182291666666667" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/layout/basetitle.xml" value="0.2672239108409321" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/layout/fragment_first.xml" value="0.3182291666666667" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/layout/fragment_second.xml" value="0.3182291666666667" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/layout/history.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/layout/historyitem.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/layout/image.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/layout/loved.xml" value="0.5042158516020236" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/layout/lovedimage.xml" value="0.5" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/layout/loveditem.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/layout/nav_header.xml" value="0.67" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/layout/settings.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/layout/settingsitem.xml" value="0.2672239108409321" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/layout/switch_item.xml" value="0.48007246376811596" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/layout/test.xml" value="0.3026041666666667" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/menu/actions.xml" value="0.67" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/menu/context.xml" value="0.5494791666666666" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/menu/nav_menu.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/menu/respones.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/menu/setuviewmenu.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.4075" />
+        <entry key="..\:/Users/xingj/AndroidStudioProjects/okhttpDemo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.4075" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

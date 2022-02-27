@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/checkDB"
+        android:title="Loved" />
+    <item
+        android:id="@+id/clearCache"
+        android:title="清除缓存" />
+    <item
+        android:id="@+id/DelDB"
+        android:title="清空Loved" />
+
+
+
+    <!--    <item-->
+    <!--        android:id="@+id/imageSave"-->
+    <!--        android:orderInCategory="100"-->
+    <!--        app:showAsAction="always"-->
+    <!--        />-->
+</menu>
